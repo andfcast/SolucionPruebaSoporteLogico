@@ -1,0 +1,15 @@
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.exe
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.deps.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.runtimeconfig.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.runtimeconfig.dev.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\bin\Debug\net5.0\TableroDamas.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.AssemblyInfoInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.AssemblyInfo.cs
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.csproj.CoreCompileInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\refint\TableroDamas.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\TableroDamas.genruntimeconfig.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\TableroDamas\obj\Debug\net5.0\ref\TableroDamas.dll

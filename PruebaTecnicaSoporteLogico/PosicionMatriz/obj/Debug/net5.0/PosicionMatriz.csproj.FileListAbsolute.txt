@@ -1,0 +1,15 @@
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.exe
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.deps.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.runtimeconfig.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.runtimeconfig.dev.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\bin\Debug\net5.0\PosicionMatriz.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.AssemblyInfoInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.AssemblyInfo.cs
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.csproj.CoreCompileInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\refint\PosicionMatriz.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\PosicionMatriz.genruntimeconfig.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\PosicionMatriz\obj\Debug\net5.0\ref\PosicionMatriz.dll

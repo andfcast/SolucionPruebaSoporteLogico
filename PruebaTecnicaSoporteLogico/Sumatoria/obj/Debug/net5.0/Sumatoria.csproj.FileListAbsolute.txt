@@ -1,0 +1,15 @@
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.exe
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.deps.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.runtimeconfig.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.runtimeconfig.dev.json
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\bin\Debug\net5.0\Sumatoria.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.AssemblyInfoInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.AssemblyInfo.cs
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.csproj.CoreCompileInputs.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\refint\Sumatoria.dll
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.pdb
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\Sumatoria.genruntimeconfig.cache
+D:\Pruebas\PruebaTecnicaSoporteLogico\Sumatoria\obj\Debug\net5.0\ref\Sumatoria.dll
